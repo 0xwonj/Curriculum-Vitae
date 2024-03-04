@@ -1,5 +1,7 @@
-# Résumé
+# Curriculum Vitae
 
-My résumé, written in LaTeX.
+---
 
-You can download the pdf [here](Resume.pdf).
+My CV, written in LaTeX.
+
+You can download the PDF [here](CV-Wonjae_Choi.pdf).
