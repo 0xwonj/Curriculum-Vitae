@@ -2,8 +2,8 @@
 
 My CV, written in LaTeX.
 
-You can download the PDF [here](CV_Wonjae-Choi.pdf).
+You can download the PDF [here](assets/CV_WonjaeChoi.pdf).
 
-![CV-image-1](CV_Wonjae-Choi-1.png)
-![CV-image-2](CV_Wonjae-Choi-2.png)
-![CV-image-3](CV_Wonjae-Choi-3.png)
+![CV-image-1](assets/CV_WonjaeChoi-1.png)
+![CV-image-2](assets/CV_WonjaeChoi-2.png)
+![CV-image-3](assets/CV_WonjaeChoi-3.png)
